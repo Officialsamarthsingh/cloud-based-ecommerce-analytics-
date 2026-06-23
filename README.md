@@ -95,6 +95,8 @@ Orders
 - Delivery Time
 - Return Status
 
+![Dashboard Preview](./Dashboard/Images/data%20model(star%20schema).jpg)
+
 ---
 
 ### AWS & SQL Analysis
