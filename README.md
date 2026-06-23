@@ -150,7 +150,7 @@ Operations Analytics
 - Return Behavior
 
 ![dashboard preview]
-(.Dashboard/Images/executive overview.jpg)
+(./Dashboard/Images/executive-overview.jpg)
 ---
 
 ### Key Insights
