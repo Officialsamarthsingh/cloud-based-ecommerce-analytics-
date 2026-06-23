@@ -149,6 +149,8 @@ Operations Analytics
 - Shipping Cost Analysis
 - Return Behavior
 
+![dashboard preview]
+(.Dashboard/Images/executive overview.jpg)
 ---
 
 ### Key Insights
