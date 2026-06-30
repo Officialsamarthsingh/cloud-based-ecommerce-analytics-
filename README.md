@@ -204,6 +204,5 @@ Operations Analytics
 
 ### Author
 
-Samarth Gupta
-
-Aspiring Data Analyst with interests in data analytics, business intelligence, cloud analytics, and machine learning.
+**Samarth Singh**
+[Portfolio](https://samarthsinghportfolio.netlify.app/) · [GitHub](https://github.com/OfficialSamarthsingh) · [LinkedIn](https://www.linkedin.com/in/samarth-singh-062371215)
